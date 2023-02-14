@@ -7,20 +7,10 @@ A simple mobile game built with `Flutter`
 
 ## Table of Contents 📜
 
-1. [General Info](#general-info-)
-2. [Preview](#preview-)
-3. [Screenshots](#screenshots-)
-4. [Getting Started](#getting-started-)
-5. [Features](#features-)
-6. [Technologies](#technologies-)
-7. [Dependencies](#dependencies-)
-8. [Contact Me](#contact-me-)
-
-
-## General Info 📝
-
-The purpose of this project was to practice Flutter development by creating simple mobile game.
-
+1. [Getting Started](#getting-started-)
+2. [Features](#features-)
+3. [Technologies](#technologies-)
+4. [Dependencies](#dependencies-)
 
 ## Getting Started 🚀
 
