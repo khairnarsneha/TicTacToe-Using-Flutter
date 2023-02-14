@@ -24,8 +24,6 @@ Don't forget to give a star if you like this project 😅😊
 
 The purpose of this project was to practice Flutter development by creating simple mobile game.
 
-## Preview 🎥
-<img src="readme/preview-1.gif" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="readme/preview-2.gif" width="250"/>
 
 ## Getting Started 🚀
 
